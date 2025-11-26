@@ -1,1 +1,0 @@
-{"players":[{"name":"Player1","position":"G"},{"name":"Player2","position":"F"},{"name":"Player3","position":"FC"}]}
